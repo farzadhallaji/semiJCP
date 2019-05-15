@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="de.bwaldvogel:liblinear:2.21" type="repository">
+    <properties maven-id="de.bwaldvogel:liblinear:2.21" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/liblinear-2.21.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/liblinear-2.21-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/liblinear-2.21-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
